@@ -36,20 +36,6 @@ Java Time API (LocalDateTime)
 
 Command Line Interface (CLI)
 
-🚀 How to Run
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/your-username/exam-system.git
-Open in any Java IDE (IntelliJ, Eclipse, NetBeans) or compile via terminal:
-
-bash
-Copy
-Edit
-javac Main.java
-java Main
 📌 Project Structure
 Main.java — Main application logic
 
